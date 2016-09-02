@@ -1,5 +1,8 @@
 # NGUI_Helpers
 对NGUI的某些组件进行封装，提高易用性。
+
+如果需要运行，请先导入NGUI。
+
 #建议版本
 Unity 5.x
 
